@@ -1,0 +1,5 @@
+1. Il numero (3400549962) è già impostato in script.js e negli href di index.html.
+2. VERIFICA il link TikTok nel footer (era troncato nello screenshot): index.html, cerca "tiktok.com".
+3. Aggiungi orari di apertura e tempi minimi per ordinare torte personalizzate quando li hai.
+4. Sostituisci le foto Unsplash (style.css: .hero-photo, .c1, .c2, .c3) con le foto reali dall'Instagram.
+5. Carica i file su GitHub e attiva GitHub Pages (Settings > Pages > branch main, cartella root).
